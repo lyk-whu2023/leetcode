@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[3190]使所有元素都可以被 3 整除的最少操作数.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3190]使所有元素都可以被 3 整除的最少操作数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3190" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[3190]使所有元素都可以被 3 整除的最少操作数.java" />
+              <option name="titleSlug" value="find-minimum-operations-to-make-all-elements-divisible-by-three" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
