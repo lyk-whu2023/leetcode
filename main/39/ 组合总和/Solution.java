@@ -9,7 +9,6 @@ import java.util.List;
 
 class Solution {
     List<List<Integer>> res = new ArrayList<>();
-    ;
 
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
         List<Integer> path = new ArrayList<>();
