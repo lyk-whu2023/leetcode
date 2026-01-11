@@ -45,6 +45,28 @@ class Solution {
                 break;
             }
         }
+//        while (index < m * n) {
+//            // 1. 从左到右收最上面一行
+//            for (int i = left; i <= right && index < m * n; i++) {
+//                ans[index++] = matrix[top][i];
+//            }
+//            top++;
+//            // 2. 从上到下收最右面一列
+//            for (int i = top; i <= bottom && index < m * n; i++) {
+//                ans[index++] = matrix[i][right];
+//            }
+//            right--;
+//            // 3. 从右到左收最下面一行
+//            for (int i = right; i >= left && index < m * n; i--) {
+//                ans[index++] = matrix[bottom][i];
+//            }
+//            bottom--;
+//            // 4. 从下到上收最左面一列
+//            for (int i = bottom; i >= top && index < m * n; i--) {
+//                ans[index++] = matrix[i][left];
+//            }
+//            left++;
+//        }
         return ans;
     }
 }
